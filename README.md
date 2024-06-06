@@ -1,6 +1,10 @@
+<div align="center">
+
 # Our-ui
 
 ![npm](https://img.shields.io/npm/v/our-ui) ![license](https://img.shields.io/github/license/yourusername/our-ui) ![stars](https://img.shields.io/github/stars/yourusername/our-ui) ![issues](https://img.shields.io/github/issues/yourusername/our-ui) ![prs](https://img.shields.io/github/issues-pr/yourusername/our-ui)
+
+</div>
 
 Our-ui 是一个基于 React 和 Next.js 的前端组件库，旨在简化和加速 Web 应用程序的开发。这个库是从 shadcn-ui 派生而来的，提供了一系列易于使用和高度可定制的 UI 组件。
 
