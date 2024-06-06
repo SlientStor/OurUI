@@ -7,8 +7,7 @@
 
 Our-ui 是一个基于 React 和 Next.js 的面向全年龄段的前端组件库，旨在简化和加速 Web 应用程序的开发。这个库是从 shadcn-ui 派生而来的，提供了一系列易于使用和高度可定制的 UI 组件。
 
-## Design Philosophy
-1.我们希望能够针对不同年龄段，不同人群做出他们会喜欢的UI组件，而不仅仅是面向业务。(For Human Not For Work)
+
 ## Design Philosophy
 
 In today's market, many component libraries focus primarily on specific business needs, providing a series of solutions tailored to particular functions. Our goal, however, is to break away from this single-minded approach and create a diverse component library that caters to different age groups and audiences.
