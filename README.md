@@ -21,7 +21,6 @@ Our-ui 是一个基于 React 和 Next.js 的前端组件库，旨在简化和加
 
 使用 npm 或 yarn 安装 Our-ui：
 
-```bash
 npm install our-ui
 # or
 yarn add our-ui
@@ -35,8 +34,13 @@ Accessible and customizable components that you can copy and paste into your app
 Visit http://ui.shadcn.com/docs to view the documentation.
 
 ## Contributing
+我们欢迎所有人的贡献！如果你有兴趣为 Our-ui 做出贡献，请阅读我们的贡献指南以了解详细信息。
 
-Please read the [contributing guide](/CONTRIBUTING.md).
+Fork 这个仓库
+创建一个分支 (git checkout -b feature/your-feature)
+提交你的修改 (git commit -m 'Add some feature')
+推送到分支 (git push origin feature/your-feature)
+创建一个 Pull Request
 
 ## License
 
