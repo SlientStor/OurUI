@@ -1,8 +1,7 @@
 <div align="center">
 
 # Our-ui
-
-![npm](https://img.shields.io/npm/v/our-ui) ![license](https://img.shields.io/github/license/yourusername/our-ui) ![stars](https://img.shields.io/github/stars/yourusername/our-ui) ![issues](https://img.shields.io/github/issues/yourusername/our-ui) ![prs](https://img.shields.io/github/issues-pr/yourusername/our-ui)
+![npm](https://img.shields.io/npm/v/our-ui) ![license](https://img.shields.io/github/license/SlientStor/our-ui) ![stars](https://img.shields.io/github/stars/SlientStor/our-ui) ![issues](https://img.shields.io/github/issues/SlientStor/our-ui) ![prs](https://img.shields.io/github/issues-pr/SlientStor/our-ui)
 
 </div>
 
